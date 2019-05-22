@@ -1,0 +1,7 @@
+C:\Users\Natalija\Desktop\web development\C#\07.03.2019 - Classes and objects\Homework - Class 5\Class 5  - Homework\bin\Debug\Class 5  - Homework.exe.config
+C:\Users\Natalija\Desktop\web development\C#\07.03.2019 - Classes and objects\Homework - Class 5\Class 5  - Homework\bin\Debug\Class 5  - Homework.exe
+C:\Users\Natalija\Desktop\web development\C#\07.03.2019 - Classes and objects\Homework - Class 5\Class 5  - Homework\bin\Debug\Class 5  - Homework.pdb
+C:\Users\Natalija\Desktop\web development\C#\07.03.2019 - Classes and objects\Homework - Class 5\Class 5  - Homework\obj\Debug\Class 5  - Homework.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C#\07.03.2019 - Classes and objects\Homework - Class 5\Class 5  - Homework\obj\Debug\Class 5  - Homework.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C#\07.03.2019 - Classes and objects\Homework - Class 5\Class 5  - Homework\obj\Debug\Class 5  - Homework.exe
+C:\Users\Natalija\Desktop\web development\C#\07.03.2019 - Classes and objects\Homework - Class 5\Class 5  - Homework\obj\Debug\Class 5  - Homework.pdb
