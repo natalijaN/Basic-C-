@@ -1,0 +1,14 @@
+C:\Users\Natalija\Desktop\web development\C#\Class 6 - 12.03.2019\Solution1\Exercise - from Class\bin\Debug\Exercise - from Class.exe.config
+C:\Users\Natalija\Desktop\web development\C#\Class 6 - 12.03.2019\Solution1\Exercise - from Class\bin\Debug\Exercise - from Class.exe
+C:\Users\Natalija\Desktop\web development\C#\Class 6 - 12.03.2019\Solution1\Exercise - from Class\bin\Debug\Exercise - from Class.pdb
+C:\Users\Natalija\Desktop\web development\C#\Class 6 - 12.03.2019\Solution1\Exercise - from Class\obj\Debug\Exercise - from Class.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 6 - 12.03.2019\Solution1\Exercise - from Class\obj\Debug\Exercise - from Class.exe
+C:\Users\Natalija\Desktop\web development\C#\Class 6 - 12.03.2019\Solution1\Exercise - from Class\obj\Debug\Exercise - from Class.pdb
+C:\Users\Natalija\Desktop\web development\C#\Class 6 - 12.03.2019\Solution1\Exercise - from Class\obj\Debug\Exercise - from Class.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 6 - 12.03.2019 - Exercises of classes and objects\Solution1\Exercise - from Class\bin\Debug\Exercise - from Class.exe.config
+C:\Users\Natalija\Desktop\web development\C#\Class 6 - 12.03.2019 - Exercises of classes and objects\Solution1\Exercise - from Class\bin\Debug\Exercise - from Class.exe
+C:\Users\Natalija\Desktop\web development\C#\Class 6 - 12.03.2019 - Exercises of classes and objects\Solution1\Exercise - from Class\bin\Debug\Exercise - from Class.pdb
+C:\Users\Natalija\Desktop\web development\C#\Class 6 - 12.03.2019 - Exercises of classes and objects\Solution1\Exercise - from Class\obj\Debug\Exercise - from Class.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 6 - 12.03.2019 - Exercises of classes and objects\Solution1\Exercise - from Class\obj\Debug\Exercise - from Class.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 6 - 12.03.2019 - Exercises of classes and objects\Solution1\Exercise - from Class\obj\Debug\Exercise - from Class.exe
+C:\Users\Natalija\Desktop\web development\C#\Class 6 - 12.03.2019 - Exercises of classes and objects\Solution1\Exercise - from Class\obj\Debug\Exercise - from Class.pdb
