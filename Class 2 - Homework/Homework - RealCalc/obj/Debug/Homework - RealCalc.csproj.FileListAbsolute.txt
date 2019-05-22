@@ -1,0 +1,7 @@
+C:\Users\Natalija\Desktop\web development\C#\26.02.2019 - Working with variables, branching\Homework\Solution1\Homework - RealCalc\bin\Debug\Homework - RealCalc.exe.config
+C:\Users\Natalija\Desktop\web development\C#\26.02.2019 - Working with variables, branching\Homework\Solution1\Homework - RealCalc\bin\Debug\Homework - RealCalc.exe
+C:\Users\Natalija\Desktop\web development\C#\26.02.2019 - Working with variables, branching\Homework\Solution1\Homework - RealCalc\bin\Debug\Homework - RealCalc.pdb
+C:\Users\Natalija\Desktop\web development\C#\26.02.2019 - Working with variables, branching\Homework\Solution1\Homework - RealCalc\obj\Debug\Homework - RealCalc.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C#\26.02.2019 - Working with variables, branching\Homework\Solution1\Homework - RealCalc\obj\Debug\Homework - RealCalc.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C#\26.02.2019 - Working with variables, branching\Homework\Solution1\Homework - RealCalc\obj\Debug\Homework - RealCalc.exe
+C:\Users\Natalija\Desktop\web development\C#\26.02.2019 - Working with variables, branching\Homework\Solution1\Homework - RealCalc\obj\Debug\Homework - RealCalc.pdb
