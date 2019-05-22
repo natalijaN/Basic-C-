@@ -1,0 +1,6 @@
+C:\Users\Natalija\Desktop\web development\C#\Class 10 - 21.03.2019 - Error handling and exercise\Exercises - error handling\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Natalija\Desktop\web development\C#\Class 10 - 21.03.2019 - Error handling and exercise\Exercises - error handling\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Natalija\Desktop\web development\C#\Class 10 - 21.03.2019 - Error handling and exercise\Exercises - error handling\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 10 - 21.03.2019 - Error handling and exercise\Exercises - error handling\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 10 - 21.03.2019 - Error handling and exercise\Exercises - error handling\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Natalija\Desktop\web development\C#\Class 10 - 21.03.2019 - Error handling and exercise\Exercises - error handling\ClassLibrary\obj\Debug\ClassLibrary.pdb

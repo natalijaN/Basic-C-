@@ -1,0 +1,10 @@
+C:\Users\Natalija\Desktop\web development\C#\Class 10 - 21.03.2019 - Error handling and exercise\Exercises - error handling\Class 10 - exercises\bin\Debug\Class 10 - exercises.exe.config
+C:\Users\Natalija\Desktop\web development\C#\Class 10 - 21.03.2019 - Error handling and exercise\Exercises - error handling\Class 10 - exercises\bin\Debug\Class 10 - exercises.exe
+C:\Users\Natalija\Desktop\web development\C#\Class 10 - 21.03.2019 - Error handling and exercise\Exercises - error handling\Class 10 - exercises\bin\Debug\Class 10 - exercises.pdb
+C:\Users\Natalija\Desktop\web development\C#\Class 10 - 21.03.2019 - Error handling and exercise\Exercises - error handling\Class 10 - exercises\bin\Debug\ClassLibrary.dll
+C:\Users\Natalija\Desktop\web development\C#\Class 10 - 21.03.2019 - Error handling and exercise\Exercises - error handling\Class 10 - exercises\bin\Debug\ClassLibrary.pdb
+C:\Users\Natalija\Desktop\web development\C#\Class 10 - 21.03.2019 - Error handling and exercise\Exercises - error handling\Class 10 - exercises\obj\Debug\Class 10 - exercises.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 10 - 21.03.2019 - Error handling and exercise\Exercises - error handling\Class 10 - exercises\obj\Debug\Class 10 - exercises.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 10 - 21.03.2019 - Error handling and exercise\Exercises - error handling\Class 10 - exercises\obj\Debug\Class 10 - exercises.csproj.CopyComplete
+C:\Users\Natalija\Desktop\web development\C#\Class 10 - 21.03.2019 - Error handling and exercise\Exercises - error handling\Class 10 - exercises\obj\Debug\Class 10 - exercises.exe
+C:\Users\Natalija\Desktop\web development\C#\Class 10 - 21.03.2019 - Error handling and exercise\Exercises - error handling\Class 10 - exercises\obj\Debug\Class 10 - exercises.pdb
