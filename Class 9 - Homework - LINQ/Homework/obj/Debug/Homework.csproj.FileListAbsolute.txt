@@ -1,0 +1,20 @@
+C:\Users\Natalija\Desktop\web development\C#\Class 9 - 19.03.2019 - Error handling\Homework - LINQ\Homework\bin\Debug\Homework.exe.config
+C:\Users\Natalija\Desktop\web development\C#\Class 9 - 19.03.2019 - Error handling\Homework - LINQ\Homework\bin\Debug\Homework.exe
+C:\Users\Natalija\Desktop\web development\C#\Class 9 - 19.03.2019 - Error handling\Homework - LINQ\Homework\bin\Debug\Homework.pdb
+C:\Users\Natalija\Desktop\web development\C#\Class 9 - 19.03.2019 - Error handling\Homework - LINQ\Homework\bin\Debug\ClassLibrary.dll
+C:\Users\Natalija\Desktop\web development\C#\Class 9 - 19.03.2019 - Error handling\Homework - LINQ\Homework\bin\Debug\ClassLibrary.pdb
+C:\Users\Natalija\Desktop\web development\C#\Class 9 - 19.03.2019 - Error handling\Homework - LINQ\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 9 - 19.03.2019 - Error handling\Homework - LINQ\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 9 - 19.03.2019 - Error handling\Homework - LINQ\Homework\obj\Debug\Homework.csproj.CopyComplete
+C:\Users\Natalija\Desktop\web development\C#\Class 9 - 19.03.2019 - Error handling\Homework - LINQ\Homework\obj\Debug\Homework.exe
+C:\Users\Natalija\Desktop\web development\C#\Class 9 - 19.03.2019 - Error handling\Homework - LINQ\Homework\obj\Debug\Homework.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-9---C-\Homework - LINQ\Homework\bin\Debug\Homework.exe.config
+C:\Users\Natalija\Documents\GitHub\Homework-Class-9---C-\Homework - LINQ\Homework\bin\Debug\Homework.exe
+C:\Users\Natalija\Documents\GitHub\Homework-Class-9---C-\Homework - LINQ\Homework\bin\Debug\Homework.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-9---C-\Homework - LINQ\Homework\bin\Debug\ClassLibrary.dll
+C:\Users\Natalija\Documents\GitHub\Homework-Class-9---C-\Homework - LINQ\Homework\bin\Debug\ClassLibrary.pdb
+C:\Users\Natalija\Documents\GitHub\Homework-Class-9---C-\Homework - LINQ\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\Natalija\Documents\GitHub\Homework-Class-9---C-\Homework - LINQ\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Documents\GitHub\Homework-Class-9---C-\Homework - LINQ\Homework\obj\Debug\Homework.csproj.CopyComplete
+C:\Users\Natalija\Documents\GitHub\Homework-Class-9---C-\Homework - LINQ\Homework\obj\Debug\Homework.exe
+C:\Users\Natalija\Documents\GitHub\Homework-Class-9---C-\Homework - LINQ\Homework\obj\Debug\Homework.pdb

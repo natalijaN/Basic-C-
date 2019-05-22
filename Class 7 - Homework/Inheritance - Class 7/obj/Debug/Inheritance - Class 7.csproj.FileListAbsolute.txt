@@ -1,0 +1,10 @@
+C:\Users\Natalija\Desktop\web development\C#\Class 7 - 14.03.2019 -  Inheritance\Homework\Class 7 - Homework\Inheritance - Class 7\bin\Debug\Inheritance - Class 7.exe.config
+C:\Users\Natalija\Desktop\web development\C#\Class 7 - 14.03.2019 -  Inheritance\Homework\Class 7 - Homework\Inheritance - Class 7\bin\Debug\Inheritance - Class 7.exe
+C:\Users\Natalija\Desktop\web development\C#\Class 7 - 14.03.2019 -  Inheritance\Homework\Class 7 - Homework\Inheritance - Class 7\bin\Debug\Inheritance - Class 7.pdb
+C:\Users\Natalija\Desktop\web development\C#\Class 7 - 14.03.2019 -  Inheritance\Homework\Class 7 - Homework\Inheritance - Class 7\bin\Debug\MyClasses.dll
+C:\Users\Natalija\Desktop\web development\C#\Class 7 - 14.03.2019 -  Inheritance\Homework\Class 7 - Homework\Inheritance - Class 7\bin\Debug\MyClasses.pdb
+C:\Users\Natalija\Desktop\web development\C#\Class 7 - 14.03.2019 -  Inheritance\Homework\Class 7 - Homework\Inheritance - Class 7\obj\Debug\Inheritance - Class 7.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 7 - 14.03.2019 -  Inheritance\Homework\Class 7 - Homework\Inheritance - Class 7\obj\Debug\Inheritance - Class 7.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 7 - 14.03.2019 -  Inheritance\Homework\Class 7 - Homework\Inheritance - Class 7\obj\Debug\Inheritance - Class 7.csproj.CopyComplete
+C:\Users\Natalija\Desktop\web development\C#\Class 7 - 14.03.2019 -  Inheritance\Homework\Class 7 - Homework\Inheritance - Class 7\obj\Debug\Inheritance - Class 7.exe
+C:\Users\Natalija\Desktop\web development\C#\Class 7 - 14.03.2019 -  Inheritance\Homework\Class 7 - Homework\Inheritance - Class 7\obj\Debug\Inheritance - Class 7.pdb

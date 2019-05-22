@@ -1,0 +1,6 @@
+C:\Users\Natalija\Desktop\web development\C#\Class 8 - 16.03.2019\Homework\Exercise 2\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Natalija\Desktop\web development\C#\Class 8 - 16.03.2019\Homework\Exercise 2\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Natalija\Desktop\web development\C#\Class 8 - 16.03.2019\Homework\Exercise 2\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 8 - 16.03.2019\Homework\Exercise 2\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 8 - 16.03.2019\Homework\Exercise 2\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Natalija\Desktop\web development\C#\Class 8 - 16.03.2019\Homework\Exercise 2\ClassLibrary\obj\Debug\ClassLibrary.pdb

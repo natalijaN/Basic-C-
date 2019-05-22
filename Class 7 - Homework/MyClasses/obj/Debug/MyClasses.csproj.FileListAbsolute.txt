@@ -1,0 +1,5 @@
+C:\Users\Natalija\Desktop\web development\C#\Class 7 - 14.03.2019 -  Inheritance\Homework\Class 7 - Homework\MyClasses\bin\Debug\MyClasses.dll
+C:\Users\Natalija\Desktop\web development\C#\Class 7 - 14.03.2019 -  Inheritance\Homework\Class 7 - Homework\MyClasses\bin\Debug\MyClasses.pdb
+C:\Users\Natalija\Desktop\web development\C#\Class 7 - 14.03.2019 -  Inheritance\Homework\Class 7 - Homework\MyClasses\obj\Debug\MyClasses.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 7 - 14.03.2019 -  Inheritance\Homework\Class 7 - Homework\MyClasses\obj\Debug\MyClasses.dll
+C:\Users\Natalija\Desktop\web development\C#\Class 7 - 14.03.2019 -  Inheritance\Homework\Class 7 - Homework\MyClasses\obj\Debug\MyClasses.pdb

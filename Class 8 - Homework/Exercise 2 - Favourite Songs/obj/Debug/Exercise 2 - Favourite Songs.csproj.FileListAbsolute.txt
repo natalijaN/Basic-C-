@@ -1,0 +1,10 @@
+C:\Users\Natalija\Desktop\web development\C#\Class 8 - 16.03.2019\Homework\Exercise 2\Exercise 2 - Favourite Songs\bin\Debug\Exercise 2 - Favourite Songs.exe.config
+C:\Users\Natalija\Desktop\web development\C#\Class 8 - 16.03.2019\Homework\Exercise 2\Exercise 2 - Favourite Songs\bin\Debug\Exercise 2 - Favourite Songs.exe
+C:\Users\Natalija\Desktop\web development\C#\Class 8 - 16.03.2019\Homework\Exercise 2\Exercise 2 - Favourite Songs\bin\Debug\Exercise 2 - Favourite Songs.pdb
+C:\Users\Natalija\Desktop\web development\C#\Class 8 - 16.03.2019\Homework\Exercise 2\Exercise 2 - Favourite Songs\bin\Debug\ClassLibrary.dll
+C:\Users\Natalija\Desktop\web development\C#\Class 8 - 16.03.2019\Homework\Exercise 2\Exercise 2 - Favourite Songs\bin\Debug\ClassLibrary.pdb
+C:\Users\Natalija\Desktop\web development\C#\Class 8 - 16.03.2019\Homework\Exercise 2\Exercise 2 - Favourite Songs\obj\Debug\Exercise 2 - Favourite Songs.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 8 - 16.03.2019\Homework\Exercise 2\Exercise 2 - Favourite Songs\obj\Debug\Exercise 2 - Favourite Songs.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\web development\C#\Class 8 - 16.03.2019\Homework\Exercise 2\Exercise 2 - Favourite Songs\obj\Debug\Exercise 2 - Favourite Songs.csproj.CopyComplete
+C:\Users\Natalija\Desktop\web development\C#\Class 8 - 16.03.2019\Homework\Exercise 2\Exercise 2 - Favourite Songs\obj\Debug\Exercise 2 - Favourite Songs.exe
+C:\Users\Natalija\Desktop\web development\C#\Class 8 - 16.03.2019\Homework\Exercise 2\Exercise 2 - Favourite Songs\obj\Debug\Exercise 2 - Favourite Songs.pdb
